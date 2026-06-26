@@ -7,5 +7,3 @@ echo "System Info1 (OS): $(uname -o)"
 echo "System Info2 (Kernel): $(uname -r)"
 echo "System Info3 (Uptime): $(uptime -p)"
 
-#forced failure
-exit 1
