@@ -1,7 +1,5 @@
 #!/bin/bash
 
-exit 1
-
 ./app.sh
 
 # checking success
